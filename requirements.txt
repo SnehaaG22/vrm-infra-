@@ -1,7 +1,0 @@
-Django>=4.2
-djangorestframework
-celery
-django-celery-beat
-redis
-psycopg2-binary
-minio
